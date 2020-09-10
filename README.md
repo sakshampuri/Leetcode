@@ -6,7 +6,7 @@
 
 S.No. |  Question Name | Type | Date|
 ------|-----------------|------|---------|
-1. | [Reverse Integers](https://leetcode.com/problems/reverse-integer/) | Easy | 11th Sep,2020|
+1 | [Reverse Integers](https://leetcode.com/problems/reverse-integer/) | Easy | 11th Sep,2020|
 
 
 
@@ -14,5 +14,4 @@ S.No. |  Question Name | Type | Date|
 
 
 
-**Saksham Puri**
-[]
+**[Saksham Puri](https://www.sakshampuri.com)**
