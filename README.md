@@ -11,6 +11,7 @@ S.No. |  Question Name | Type | Date|
 3 | [Buy and Sell Stocks I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | Easy | 11th Sep, 2020
 4 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 13th Sep, 2020
 5 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | Easy | 13th Sep, 2020
+6 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 13th Sep, 2020 
 
 
 
