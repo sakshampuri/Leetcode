@@ -12,7 +12,7 @@ S.No. |  Question Name | Type | Date|
 4 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 13th Sep, 2020
 5 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | Easy | 13th Sep, 2020
 6 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 13th Sep, 2020 
-
+7 | [Max Sub Array](https://leetcode.com/problems/maximum-subarray/) | Easy | 16th Sep, 2020
 
 
 
