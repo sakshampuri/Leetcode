@@ -13,6 +13,7 @@ S.No. |  Question Name | Type | Date|
 5 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | Easy | 13th Sep, 2020
 6 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 13th Sep, 2020 
 7 | [Max Sub Array](https://leetcode.com/problems/maximum-subarray/) | Easy | 16th Sep, 2020
+8 | [Three Sum](https://leetcode.com/problems/3sum/submissions/) | Medium | 18th Sep, 2020
 
 
 
