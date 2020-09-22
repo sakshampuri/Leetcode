@@ -17,6 +17,7 @@ S.No. |  Question Name | Type | Date|
 9 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 20th Sep, 2020
 10 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/) | Medium | 20th Sep, 2020
 11 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | Easy | 22nd Sep, 2020
+12 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | Easy | 22nd Sep, 2020
 
 
 
