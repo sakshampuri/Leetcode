@@ -13,6 +13,10 @@ we decrease the size of the window from the front
 
 Keeping track of max window size is the solution
 
+why is mac_char_in_cur_window not updated when window_start index is changed?
+Because we're only concerned about the max window size size and to consider that, we only need to keep track and look forward
+to a value which is greater than what is occured. A smaller value will not affect the max window size that is possible.
+
 '''
 from typing import Dict
 
